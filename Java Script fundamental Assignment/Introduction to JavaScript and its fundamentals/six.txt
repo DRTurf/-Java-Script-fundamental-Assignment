@@ -1,0 +1,15 @@
+Choosing meaningful and descriptive variable names in 
+JavaScript is crucial for code readability and maintainability. 
+Clear variable names make it easier to understand 
+the purpose and functionality the code.
+
+Ex-
+    // Not-so-descriptive variable names
+    let x = 10;
+    let y = 5;
+    let z = x + y;
+
+    // Improved with meaningful variable names
+    let numberOfCake = 10;
+    let numberOfChocolate = 5;
+    let totalNumberOfItems = numberOfCake + numberOfChocolates;

@@ -1,0 +1,25 @@
+In JavaScript, operators can be categorized 
+based on their functionality into several groups.  
+
+
+Arithmetic (Binary) Operators: Perform basic arithmetic calculations.
+    Ex- "+", "-", "*", "/".
+
+
+Logical Operators: Compare values and return a Boolean result.
+    Ex- "==", "!=", ">", "<", ">=", "<=", "&&", "||", "!".
+
+
+Assignment Operators:Assign values to variables.
+    Ex- "+=", "-=".
+
+
+Unary Operators:Operate on a single operand.
+    Ex- "++", "--".
+
+Conditional (Ternary) Operator:Provides a concise way to write conditional statements.
+    Ex- "let x = (a >= b) ? c : d".
+
+
+Bitwise Operators:Perform bitwise operations on integers.
+    Ex- "&", "|", "^".

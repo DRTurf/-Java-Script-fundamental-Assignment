@@ -1,0 +1,10 @@
+Precedence: refers to the priority of operators. 
+            Higher precedence operators are evaluated first. 
+
+Associativity: the order in which operators 
+               with the same precedence are evaluated. 
+               It can be either left-to-right or right-to-left.
+
+Precedence and associativity are important because they 
+determine the order in which operators are evaluated in 
+expressions.

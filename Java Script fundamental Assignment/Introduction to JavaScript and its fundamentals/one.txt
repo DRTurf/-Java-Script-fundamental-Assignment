@@ -1,0 +1,5 @@
+JavaScript is a high-level, 
+interpreted programming language 
+primarily known for its use in web development.
+
+JavaScript is used to add functionality to the website.

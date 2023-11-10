@@ -1,0 +1,6 @@
+Declaring variables contais a particular value,
+which can be called upon, modified and used multiple times.
+
+Variable declaration using let:
+
+let variable=10;

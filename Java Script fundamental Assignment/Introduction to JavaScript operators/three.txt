@@ -1,0 +1,9 @@
+Unary Operators: Unary operators are operators that take a single operand.
+    Ex- "++", "--".
+
+Binary Operators: Binary operators are operators that take two operands.
+    Ex- "+", "-", "*", "/".
+
+Ternary Operator: The ternary operator is a shorthand way of writing an 
+                  if-else statement and takes three operands.
+    Ex- "let x = (a >= b) ? c : d".

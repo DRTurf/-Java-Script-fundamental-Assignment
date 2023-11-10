@@ -1,0 +1,13 @@
+Html: Is used for making the skeleton of the website.
+    Ex- <img src="..."> ---> this will add an image in the website
+    
+JavaScript: Is used to add functionality to a webpage.
+
+    Ex- <button id="button">Click Me</button>
+        <script>
+        const button = document.getElementById("button");
+        button.onclick = alert("Clicked");
+        </script>
+    ---> this will show the message "Clicked" 
+    on the website when the button "Click Me" is clicked. 
+

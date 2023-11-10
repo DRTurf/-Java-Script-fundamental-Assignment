@@ -1,0 +1,11 @@
+Number: numeric values, both integers and floating-point numbers.
+
+String: sequences of characters (text).
+
+Boolean: logical values, either true or false.
+
+Undefined: a variable that has been declared but has not been assigned a value.
+
+Null: the intentional absence of any object value.
+It is often used to indicate that a variable has no value or that a function returns no value.
+Example:

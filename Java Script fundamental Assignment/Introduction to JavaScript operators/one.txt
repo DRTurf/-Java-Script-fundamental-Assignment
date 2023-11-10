@@ -1,0 +1,10 @@
+Role of Operators in Js:
+
+Operators allow developers to perform various operations on data. 
+These operations include arithmetic calculations, 
+logical comparisons, assignment of values, and more.
+
+They are essential because they are used to perform various 
+actions a the program.
+
+Ex- "+", "-", "*", "/".
