@@ -4,8 +4,8 @@ It improves the readability of the code.
 Single line comment: Declared using  two back slashes "//"
     Ex- //this is a single line comment
 
-Multi line comment: Declared using a star and an back slash at the 
-                    beginning and a back slash star at the end "*/.../*"
-    Ex- */this
+Multi line comment: Declared using a back slash and a star at the 
+                    beginning and a star back slash  at the end "/*...*/"
+    Ex- /*this
         is an exmample
-        of a multi line comment /*
+        of a multi line comment */
